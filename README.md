@@ -19,5 +19,6 @@ Age: 15
 rodney.cummings@stu.ocsb.ca
 
 ## my best projects are 
-[1](https://colab.research.google.com/drive/1Nlb6-uFGNJVayjGfbaeOd8LnPiu9XvIZ?usp=sharing)
-[2](https://rodney-cummings.github.io/ICD2O/Unit1/Final/main.html)
+[Python Application](https://colab.research.google.com/drive/1Nlb6-uFGNJVayjGfbaeOd8LnPiu9XvIZ?usp=sharing)
+
+[wep site](https://rodney-cummings.github.io/ICD2O/Unit1/Final/main.html)
