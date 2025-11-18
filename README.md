@@ -1,16 +1,21 @@
-## Hi there 👋
+First Name: rodney
 
-<!--
-**rodney-cummings/rodney-cummings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Last Name: cummings
 
-Here are some ideas to get you started:
+Age: 15
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Im trying to learn
+< ~~Python.~~
+
+< ~~html .~~
+
+< C++
+
+< java
+## My Education is Grade 10 student at Holy Trinity Catholic High School
+## I took an Digital Technology
+
+## email
+rodney.cummings@stu.ocsb.ca
+
+
