@@ -1,4 +1,4 @@
-## age and name
+## Age and name
 
 First Name: rodney
 
@@ -27,3 +27,7 @@ rodney.cummings@stu.ocsb.ca
 [Python Application](https://colab.research.google.com/drive/1Nlb6-uFGNJVayjGfbaeOd8LnPiu9XvIZ?usp=sharing)
 
 [wep site](https://rodney-cummings.github.io/ICD2O/Unit1/Final/main.html)
+
+## Resume
+
+[Resume](https://docs.google.com/document/d/1OBr1-tpp2Hbx-94ApoqyPxZPK15yX9utSGkn694FGms/edit?usp=sharing) 
