@@ -12,10 +12,13 @@ Age: 15
 < C++
 
 < java
-## My Education is Grade 10 student at Holy Trinity Catholic High School
-## I took an Digital Technology
+## My Education
 
-## email
+### My only coding education so far is a Grade 10 student at Holy Trinity Catholic High School
+
+### I took an Digital Technology
+
+### email
 rodney.cummings@stu.ocsb.ca
 
 ## my best projects are 
