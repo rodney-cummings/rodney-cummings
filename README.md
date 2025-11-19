@@ -18,6 +18,8 @@ Age: 15
 
 ### My only coding education so far is a Grade 10 student at Holy Trinity Catholic High School
 
+I took ICD2O thats how I learn how to code like 80% of my knowage is from this and oather 20% is from youtube and W3
+
 ### I took an Digital Technology
 
 ### email
