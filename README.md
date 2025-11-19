@@ -67,6 +67,8 @@ rodney.cummings@stu.ocsb.ca
 
 [Pizza Ordering App](https://colab.research.google.com/drive/1ZVU7HXsVe09PdZapkzDVuowR0qCnl3FS?usp=sharing)
 
+[pong story board](https://www.canva.com/design/DAG3ASDexhA/_hF6qL670b2QrSTZ7ZuZgA/edit?utm_content=DAG3ASDexhA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+
 ## Resume
 
 [Resume](https://docs.google.com/document/d/1OBr1-tpp2Hbx-94ApoqyPxZPK15yX9utSGkn694FGms/edit?usp=sharing) 
